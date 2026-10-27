@@ -1,0 +1,5 @@
+if(EXISTS "/home/makerbot/repos/projects/limit-orderbook/build/ob_tests[1]_tests.cmake")
+  include("/home/makerbot/repos/projects/limit-orderbook/build/ob_tests[1]_tests.cmake")
+else()
+  add_test(ob_tests_NOT_BUILT ob_tests_NOT_BUILT)
+endif()

@@ -1,0 +1,57 @@
+Start testing: Oct 27 16:46 +08
+----------------------------------------------------------
+1/2 Testing: FileDrivenEngineTests/ScenarioTest.EvaluatesFile/smoke#GetParam()="../tests/scenarios/smoke.scenario"
+1/2 Test: FileDrivenEngineTests/ScenarioTest.EvaluatesFile/smoke#GetParam()="../tests/scenarios/smoke.scenario"
+Command: "/home/makerbot/repos/projects/limit-orderbook/build/ob_tests" "--gtest_filter=FileDrivenEngineTests/ScenarioTest.EvaluatesFile/smoke" "--gtest_also_run_disabled_tests"
+Directory: /home/makerbot/repos/projects/limit-orderbook/build
+"FileDrivenEngineTests/ScenarioTest.EvaluatesFile/smoke#GetParam()="../tests/scenarios/smoke.scenario"" start time: Oct 27 16:46 +08
+Output:
+----------------------------------------------------------
+Running main() from /home/makerbot/repos/projects/limit-orderbook/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FileDrivenEngineTests/ScenarioTest.EvaluatesFile/smoke
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileDrivenEngineTests/ScenarioTest
+[ RUN      ] FileDrivenEngineTests/ScenarioTest.EvaluatesFile/smoke
+[       OK ] FileDrivenEngineTests/ScenarioTest.EvaluatesFile/smoke (1 ms)
+[----------] 1 test from FileDrivenEngineTests/ScenarioTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FileDrivenEngineTests/ScenarioTest.EvaluatesFile/smoke#GetParam()="../tests/scenarios/smoke.scenario"" end time: Oct 27 16:46 +08
+"FileDrivenEngineTests/ScenarioTest.EvaluatesFile/smoke#GetParam()="../tests/scenarios/smoke.scenario"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: FileDrivenEngineTests/ScenarioTest.EvaluatesFile/basic_sweep#GetParam()="../tests/scenarios/basic_sweep.scenario"
+2/2 Test: FileDrivenEngineTests/ScenarioTest.EvaluatesFile/basic_sweep#GetParam()="../tests/scenarios/basic_sweep.scenario"
+Command: "/home/makerbot/repos/projects/limit-orderbook/build/ob_tests" "--gtest_filter=FileDrivenEngineTests/ScenarioTest.EvaluatesFile/basic_sweep" "--gtest_also_run_disabled_tests"
+Directory: /home/makerbot/repos/projects/limit-orderbook/build
+"FileDrivenEngineTests/ScenarioTest.EvaluatesFile/basic_sweep#GetParam()="../tests/scenarios/basic_sweep.scenario"" start time: Oct 27 16:46 +08
+Output:
+----------------------------------------------------------
+Running main() from /home/makerbot/repos/projects/limit-orderbook/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FileDrivenEngineTests/ScenarioTest.EvaluatesFile/basic_sweep
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileDrivenEngineTests/ScenarioTest
+[ RUN      ] FileDrivenEngineTests/ScenarioTest.EvaluatesFile/basic_sweep
+[       OK ] FileDrivenEngineTests/ScenarioTest.EvaluatesFile/basic_sweep (0 ms)
+[----------] 1 test from FileDrivenEngineTests/ScenarioTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FileDrivenEngineTests/ScenarioTest.EvaluatesFile/basic_sweep#GetParam()="../tests/scenarios/basic_sweep.scenario"" end time: Oct 27 16:46 +08
+"FileDrivenEngineTests/ScenarioTest.EvaluatesFile/basic_sweep#GetParam()="../tests/scenarios/basic_sweep.scenario"" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 27 16:46 +08

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ob_tests.dir/tests/test_orderbook.cpp.o -o ob_tests  liborderbook.a lib/libgtest_main.a lib/libgtest.a 

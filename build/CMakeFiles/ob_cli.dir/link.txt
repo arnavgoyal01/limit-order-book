@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ob_cli.dir/src/main.cpp.o -o ob_cli  liborderbook.a 
